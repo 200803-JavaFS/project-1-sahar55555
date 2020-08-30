@@ -11,14 +11,14 @@ import javax.servlet.http.HttpServletResponse;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.revature.models.Users;
 import com.revature.reimServices.UsersService;
-import com.revature.remServices.UsersrService;
+
 
 public class UsersController {
 	
 	private static UsersService as = new UsersService();
 	private static ObjectMapper om = new ObjectMapper();
 	
-	public void getAvenger(HttpServletResponse res, int id) throws IOException {
+	public void getUsers(HttpServletResponse res, int id) throws IOException {
 		Users a = as.findById(id);
 		if(a == null) {
 			res.setStatus(204);
@@ -30,7 +30,7 @@ public class UsersController {
 		
 	}
 	
-	public void getAllAvengers(HttpServletResponse res) throws IOException {
+	public void getAllUsers(HttpServletResponse res) throws IOException {
 		List<Users> all = as.findAll();
 		res.getWriter().println(om.writeValueAsString(all));
 		res.setStatus(200);
@@ -56,9 +56,9 @@ public class UsersController {
 		
 		System.out.println(a);
 		
-		if (as.addAvenger(a)) {
+		if (as.addUser(a)) {
 			res.setStatus(201);
-			res.getWriter().println("Avenger was created");
+			res.getWriter().println("User was created");
 		} else {
 			res.setStatus(403);
 		}

@@ -47,9 +47,9 @@ public class MasterServlet extends HttpServlet {
 					if (req.getMethod().equals("GET")) {
 						if (portions.length == 2) {
 							int id = Integer.parseInt(portions[1]);
-							ac.getAvenger(res, id);
+							ac.getUsers(res, id);
 						} else if (portions.length == 1) {
-							ac.getAllAvengers(res);
+							ac.getAllUsers(res);
 						}
 					} else if (req.getMethod().equals("POST")) {
 						ac.addAvenger(req, res);
