@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manager Reimbursement</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <link href="projone.css" rel="stylesheet" >
+</head>
+<body>
+
+    <h5 class="col-lg-12">Hi Manager</h5>
+
+    <div class="container" id="fullcontainer">
+        <div class="row" id="employee-buttons">
+            <button id="listbtn" class="btn btn-dark">List Pending Tickets</button>
+            <button id="listallbtn" class="btn btn-dark">List All Tickets</button>
+        </div>
+        <br><br><br>
+        <div class="row" id="list-section" style="display:none;">
+            <table id="list-table" class="table-hover table-bordered" width="100%">
+                <thead>
+                    <th>ID</th>
+                    <th>Employee</th>
+                    <th>Amount</th>
+                    <th>Date Submitted</th>
+                    <th>Type</th>
+                    <th>Description</th>
+                </thead>
+                <tbody id="list-body">
+                </tbody>
+            </table>
+            <br><br>
+            <table cellspacing="10">
+                <tr>
+                    <td>Enter ID</td>
+                    <td><input type="number" id="reimb_id"></td>
+                    <td><button id="approvebtn"class="btn btn-dark">Approve</button></td>
+                    <td><button id="denybtn"class="btn btn-danger">Deny</button></td>
+                </tr>
+            </table>
+       </div>
+
+        <div class="row" id="listall-section" style="display:none;">
+            <table id="listall-table" class="table-hover table-bordered" width="100%">
+                <thead>
+                    <th>Employee</th>
+                    <th>Amount</th>
+                    <th>Status</th>
+                    <th>Date Submitted</th>
+                    <th>Date Resolved</th>
+                    <th>Type</th>
+                </thead>
+                <tbody id="listall-body">
+                </tbody>
+            </table>
+        </div>
+
+    </div>
+    <script src="manager.js"></script>
+
+</body>
+</html>

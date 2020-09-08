@@ -12,12 +12,14 @@ public interface IUsersDao {
 		public Users findById(int id);
 		
 		public boolean addUser(Users a);
-		
-		public boolean updateAvenger(Users a); 
-		
-		public boolean deleteUser(int supId);
 
-		public boolean addAvengerWithHome(Users a);
+		public void insert(Users usr);
+		
+		public Users getUbypswd(String pswd);
+
+		public Users getUserByUsername(String nm);
+		
+		public boolean updateUsers(Users usrs);
 
 	}
 

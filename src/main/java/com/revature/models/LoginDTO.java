@@ -1,8 +1,14 @@
 package com.revature.models;
 
-public class LoginDTO {
+import java.io.Serializable;
+
+public class LoginDTO implements Serializable{
+
+	private static final long serialVersionUID = 1L;
 	
 	public String username;
-	public String password; 
+	public String password;
+	//public int type;
+	//public int userId;
 
 }

@@ -1,7 +1,21 @@
 package com.revature.models;
 
-public class useRl {
+import java.io.Serializable;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+@Entity
+@Table(name="userRl")
+public class useRl implements Serializable {
+	@Id
+	@GeneratedValue(strategy=GenerationType.IDENTITY)
 private int useroleid;
+	@Column(name="userole",nullable=false)
 private String userole;
 public useRl() {
 	super();

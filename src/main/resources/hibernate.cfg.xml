@@ -9,8 +9,8 @@
 	
 	<!-- JDBC config -->
 		<property name="hibernate.connection.username">postgres</property>
-		<property name="hibernate.connection.password">password</property>
-		<property name="hibernate.connection.url">jdbc:postgresql:\\javafs200803.cyup8lonqmma.us-east-2.rds.amazonaws.com:5432/projectone</property>
+		<property name="hibernate.connection.password">mypassword</property>
+		<property name="hibernate.connection.url">jdbc:postgresql://javafs200803.cyup8lonqmma.us-east-2.rds.amazonaws.com:5432/projectone</property>
 		<property name="hibernate.connection.driver_class">org.postgresql.Driver</property>
 		<!-- Additional Hibernate Properties -->
 		<property name="hibernate.dialect">org.hibernate.dialect.PostgreSQLDialect</property>
@@ -20,5 +20,10 @@
 		
 		<mapping class="com.revature.models.Users"/>
 		<mapping class="com.revature.models.reimbursement"/>
+		<mapping class="com.revature.models.useRl"/>
+		<mapping class="com.revature.models.status"/>
+		
+		<mapping class="com.revature.models.reim_type"/>
+		
 	</session-factory>
 </hibernate-configuration>

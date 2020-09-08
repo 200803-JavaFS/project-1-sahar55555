@@ -1,0 +1,14 @@
+body{
+padding-top: 20px;
+background-image: url(imgs/reimbursement.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.btn {
+    margin-right: 40px;
+}
+.container{
+    text-align:center;
+    margin-top: 110px;
+}

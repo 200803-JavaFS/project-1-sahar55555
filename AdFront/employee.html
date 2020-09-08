@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employee Reimbursement</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <link href="projone.css" rel="stylesheet" >
+</head>
+<body>
+
+    <h5 class="col-lg-12">Hi Employee</h5>
+
+    <div class="container" id="fullcontainer">
+        <div class="row" id="employee-buttons">
+            <button id="listbtn" class="btn btn-dark">List My Tickets</button>
+            <button id="addbtn" class="btn btn-dark">Add New Ticket</button>
+        </div>
+        <br><br><br>
+        <div class="row" id="list-section" style="display:none;">
+            <table id="list-table" class="table-hover table-bordered" width="100%">
+                <thead>
+                    <th>Amount</th>
+                    <th>Status</th>
+                    <th>Date Submitted</th>
+                    <th>Date Resolved</th>
+                    <th>Type</th>
+                </thead>
+                <tbody id="list-body">
+                </tbody>
+            </table>
+        </div>
+        <div id="add-section" style="display:none;">
+            <div class="row">
+                <div class="col-4-sm">
+                    <label class="label" for="amount">Amount</label>
+                    <input type="number" class="form-control" id="amount">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-4-sm">
+                    <label class="label" for="type">Type</label>
+                    <select class="form-control" id="type">
+                        <option value="lodging">Lodgin</option>
+                        <option value="travel">Travel</option>
+                        <option value="food">Food</option>
+                        <option value="other">Other</option>
+                    </select>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-4-sm">
+                    <label class="label" for="description">Description</label>
+                    <input type="text" class="form-control" id="description">
+                </div>
+            </div>
+            <div class="row">
+                <button id="addsubmitbtn" class="btn btn-dark">Add</button>
+            </div>
+        </div>
+    </div>
+    <script src="employee.js"></script>
+</body>
+</html>

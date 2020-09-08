@@ -1,0 +1,363 @@
+2020-09-04 22:18:24 INFO  UsersService:24 - All users list
+2020-09-04 22:34:51 INFO  UsersService:24 - All users list
+2020-09-04 22:38:31 INFO  UsersService:24 - All users list
+2020-09-05 08:05:40 INFO  UsersService:24 - All users list
+2020-09-05 08:15:33 INFO  UsersService:29 - Find user by id1
+2020-09-05 10:01:49 INFO  UsersService:29 - Find user by id1
+2020-09-05 10:12:16 INFO  UsersService:29 - Find user by id1
+2020-09-06 15:11:09 INFO  UsersService:38 - Find a user by namedog
+2020-09-06 16:11:23 INFO  UsersService:38 - Find a user by namedog
+2020-09-06 16:14:39 INFO  UsersService:38 - Find a user by namedog
+2020-09-06 16:17:11 INFO  UsersService:38 - Find a user by namedog
+2020-09-06 16:18:32 INFO  UsersService:38 - Find a user by namedog
+2020-09-06 16:26:23 INFO  UsersService:38 - Find a user by namedog
+2020-09-06 16:28:17 INFO  UsersService:38 - Find a user by namedog
+2020-09-06 16:37:03 INFO  UsersService:38 - Find a user by namedog
+2020-09-06 16:37:49 INFO  UsersService:38 - Find a user by namedog
+2020-09-06 16:38:18 INFO  UsersService:38 - Find a user by namedog
+2020-09-06 16:38:50 INFO  UsersService:38 - Find a user by namedog
+2020-09-06 16:40:26 INFO  UsersService:38 - Find a user by namedog
+2020-09-06 16:47:01 INFO  UsersService:38 - Find a user by namedog
+2020-09-06 17:52:34 INFO  MasterServlet:75 - User name is : null
+2020-09-06 17:52:34 INFO  UsersService:38 - Find a user by namenull
+2020-09-06 18:53:36 INFO  MasterServlet:76 - User name is : null
+2020-09-06 18:53:36 INFO  UsersService:38 - Find a user by namenull
+2020-09-06 18:57:02 INFO  MasterServlet:76 - User name is : null
+2020-09-06 18:57:02 INFO  UsersService:38 - Find a user by namenull
+2020-09-06 19:16:00 INFO  MasterServlet:75 - User name is : null
+2020-09-06 19:16:00 INFO  UsersService:38 - Find a user by namenull
+2020-09-06 19:22:49 INFO  MasterServlet:75 - User name is : null
+2020-09-06 19:22:49 INFO  UsersService:38 - Find a user by namenull
+2020-09-06 19:40:17 INFO  MasterServlet:76 - User name is : dog
+2020-09-06 19:40:17 INFO  UsersService:38 - Find a user by namedog
+2020-09-06 22:19:57 INFO  MasterServlet:76 - User name is : dog
+2020-09-06 22:19:57 INFO  UsersService:38 - Find a user by namedog
+2020-09-06 22:23:22 INFO  MasterServlet:76 - User name is : dog
+2020-09-06 22:23:22 INFO  UsersService:38 - Find a user by namedog
+2020-09-06 22:27:54 INFO  MasterServlet:76 - User name is : dog
+2020-09-06 22:27:54 INFO  UsersService:38 - Find a user by namedog
+2020-09-06 22:32:57 INFO  MasterServlet:76 - User name is : dog
+2020-09-06 22:32:57 INFO  UsersService:38 - Find a user by namedog
+2020-09-06 22:39:27 INFO  MasterServlet:76 - User name is : dog
+2020-09-06 22:39:27 INFO  UsersService:38 - Find a user by namedog
+2020-09-06 22:39:40 INFO  UsersService:29 - Find user by id0
+2020-09-06 23:01:46 INFO  MasterServlet:76 - User name is : dog
+2020-09-06 23:01:46 INFO  UsersService:38 - Find a user by namedog
+2020-09-06 23:01:57 INFO  UsersService:29 - Find user by id0
+2020-09-06 23:11:52 INFO  MasterServlet:76 - User name is : dog
+2020-09-06 23:11:52 INFO  UsersService:38 - Find a user by namedog
+2020-09-06 23:12:00 INFO  UsersService:29 - Find user by id0
+2020-09-06 23:12:00 INFO  reimbursemServices:33 - Adding new reimbursementreimbursement [reimb_id=0, reimb_amt=12.0, reim_submtd=2020-09-06 23:12:00.635, reim_resolvd=null, reim_recpt=0, reim_desc=aa, reim_athr=null, reim_resolr=null, reim_sttsId=status [reim_statid=1, reim_status=pending], reim_typId=reim_type [typeid=1, reim_tp=lodging]]
+2020-09-06 23:18:30 INFO  MasterServlet:76 - User name is : dog
+2020-09-06 23:18:30 INFO  UsersService:38 - Find a user by namedog
+2020-09-06 23:18:40 INFO  UsersService:29 - Find user by id0
+2020-09-06 23:18:40 INFO  reimbursemServices:33 - Adding new reimbursementreimbursement [reimb_id=0, reimb_amt=333.0, reim_submtd=2020-09-06 23:18:40.595, reim_resolvd=null, reim_recpt=0, reim_desc=aa, reim_athr=null, reim_resolr=null, reim_sttsId=status [reim_statid=1, reim_status=pending], reim_typId=reim_type [typeid=1, reim_tp=lodging]]
+2020-09-06 23:33:55 INFO  MasterServlet:76 - User name is : dog
+2020-09-06 23:33:55 INFO  UsersService:38 - Find a user by namedog
+2020-09-06 23:34:16 INFO  UsersService:29 - Find user by id0
+2020-09-06 23:34:16 INFO  reimbursemServices:33 - Adding new reimbursementreimbursement [reimb_id=0, reimb_amt=6.0, reim_submtd=2020-09-06 23:34:16.223, reim_resolvd=null, reim_recpt=0, reim_desc=aa, reim_athr=null, reim_resolr=null, reim_sttsId=status [reim_statid=1, reim_status=pending], reim_typId=reim_type [typeid=1, reim_tp=lodging]]
+2020-09-06 23:34:16 ERROR reimbursDao:78 - You couldn't add reimbursement
+2020-09-07 00:00:49 INFO  MasterServlet:76 - User name is : dog
+2020-09-07 00:00:49 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 00:01:01 INFO  UsersService:29 - Find user by id0
+2020-09-07 00:01:01 INFO  reimbursemServices:33 - Adding new reimbursementreimbursement [reimb_id=0, reimb_amt=11.0, reim_submtd=2020-09-07 00:01:01.008, reim_resolvd=null, reim_recpt=0, reim_desc=aa, reim_athr=null, reim_resolr=null, reim_sttsId=status [reim_statid=1, reim_status=pending], reim_typId=reim_type [typeid=1, reim_tp=lodging]]
+2020-09-07 00:01:01 ERROR reimbursDao:78 - You couldn't add reimbursement
+2020-09-07 00:17:51 INFO  MasterServlet:76 - User name is : dog
+2020-09-07 00:17:51 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 00:18:09 INFO  UsersService:29 - Find user by id0
+2020-09-07 00:18:09 INFO  reimbursemServices:33 - Adding new reimbursementreimbursement [reimb_id=0, reimb_amt=22.0, reim_submtd=2020-09-07 00:18:09.518, reim_resolvd=null, reim_recpt=0, reim_desc=qq, reim_athr=null, reim_resolr=null, reim_sttsId=status [reim_statid=1, reim_status=pending], reim_typId=reim_type [typeid=1, reim_tp=lodging]]
+2020-09-07 00:18:09 ERROR reimbursDao:78 - You couldn't add reimbursement
+2020-09-07 00:31:57 INFO  MasterServlet:76 - User name is : dog
+2020-09-07 00:31:57 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 00:32:09 INFO  UsersService:29 - Find user by id0
+2020-09-07 00:32:09 INFO  reimbursemServices:33 - Adding new reimbursementreimbursement [reimb_id=0, reimb_amt=11.0, reim_submtd=2020-09-07 00:32:09.161, reim_resolvd=null, reim_recpt=0, reim_desc=aa, reim_athr=null, reim_resolr=null, reim_sttsId=status [reim_statid=1, reim_status=pending], reim_typId=reim_type [typeid=1, reim_tp=lodging]]
+2020-09-07 00:32:09 ERROR reimbursDao:78 - You couldn't add reimbursement
+2020-09-07 00:38:31 INFO  MasterServlet:76 - User name is : dog
+2020-09-07 00:38:31 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 00:38:40 INFO  UsersService:29 - Find user by id0
+2020-09-07 00:38:40 INFO  reimbursemServices:33 - Adding new reimbursementreimbursement [reimb_id=0, reimb_amt=22.0, reim_submtd=2020-09-07 00:38:40.558, reim_resolvd=null, reim_recpt=0, reim_desc=ss, reim_athr=null, reim_resolr=null, reim_sttsId=status [reim_statid=1, reim_status=pending], reim_typId=reim_type [typeid=1, reim_tp=lodging]]
+2020-09-07 00:38:40 ERROR reimbursDao:78 - You couldn't add reimbursement
+2020-09-07 00:42:13 INFO  MasterServlet:76 - User name is : dog
+2020-09-07 00:42:13 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 00:42:23 INFO  UsersService:29 - Find user by id0
+2020-09-07 00:42:23 INFO  reimbursemServices:33 - Adding new reimbursementreimbursement [reimb_id=0, reimb_amt=55.0, reim_submtd=2020-09-07 00:42:23.748, reim_resolvd=null, reim_desc=dd, reim_athr=null, reim_resolr=null, reim_sttsId=status [reim_statid=1, reim_status=pending], reim_typId=reim_type [typeid=1, reim_tp=lodging]]
+2020-09-07 00:42:24 ERROR reimbursDao:78 - You couldn't add reimbursement
+2020-09-07 01:16:13 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 01:16:13 INFO  MasterServlet:77 - User name is : dog
+2020-09-07 01:16:25 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 01:16:25 INFO  reimbursemServices:33 - Adding new reimbursementreimbursement [reimb_id=0, reimb_amt=55.0, reim_submtd=2020-09-07 01:16:25.855, reim_resolvd=null, reim_desc=aa, reim_athr=Users [userid=1, usrnm=dog, usrpaswd=sky, usr_fname=Ethan, usr_lname=Hunt, usreml=dog1@msn, usr_rlid=com.revature.models.useRl@5c2879e], reim_resolr=null, reim_sttsId=status [reim_statid=1, reim_status=pending], reim_typId=reim_type [typeid=1, reim_tp=lodging]]
+2020-09-07 01:16:26 ERROR reimbursDao:78 - You couldn't add reimbursement
+2020-09-07 09:25:45 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 09:25:45 INFO  MasterServlet:77 - User name is : dog
+2020-09-07 09:25:59 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 09:25:59 INFO  reimbursemServices:33 - Adding new reimbursementreimbursement [reimb_id=0, reimb_amt=11.0, reim_submtd=2020-09-07 09:25:59.75, reim_resolvd=null, reim_desc=ee, reim_athr=Users [userid=1, usrnm=dog, usrpaswd=sky, usr_fname=Ethan, usr_lname=Hunt, usreml=dog1@msn, usr_rlid=com.revature.models.useRl@5c2879e], reim_resolr=null, reim_sttsId=status [reim_statid=1, reim_status=pending], reim_typId=reim_type [typeid=1, reim_tp=lodging]]
+2020-09-07 09:26:00 ERROR reimbursDao:78 - You couldn't add reimbursement
+2020-09-07 09:34:49 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 09:34:49 INFO  MasterServlet:77 - User name is : dog
+2020-09-07 09:34:57 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 09:34:57 INFO  reimbursemServices:33 - Adding new reimbursementreimbursement [reimb_id=0, reimb_amt=11.0, reim_submtd=2020-09-07 09:34:57.201, reim_resolvd=null, reim_desc=ww, reim_athr=Users [userid=1, usrnm=dog, usrpaswd=sky, usr_fname=Ethan, usr_lname=Hunt, usreml=dog1@msn, usr_rlid=com.revature.models.useRl@5c2879e], reim_resolr=null, reim_sttsId=status [reim_statid=1, reim_status=pending], reim_typId=reim_type [typeid=1, reim_tp=lodging]]
+2020-09-07 09:34:57 ERROR reimbursDao:78 - You couldn't add reimbursement
+2020-09-07 09:41:30 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 09:41:30 INFO  MasterServlet:77 - User name is : dog
+2020-09-07 09:41:38 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 09:41:38 INFO  reimbursemServices:33 - Adding new reimbursementreimbursement [reimb_id=0, reimb_amt=55.0, reim_submtd=2020-09-07 09:41:38.596, reim_resolvd=null, reim_desc=zz, reim_athr=Users [userid=1, usrnm=dog, usrpaswd=sky, usr_fname=Ethan, usr_lname=Hunt, usreml=dog1@msn, usr_rlid=com.revature.models.useRl@5c2879e], reim_resolr=null, reim_sttsId=status [reim_statid=1, reim_status=pending], reim_typId=reim_type [typeid=1, reim_tp=lodging]]
+2020-09-07 09:41:38 ERROR reimbursDao:78 - You couldn't add reimbursement
+2020-09-07 09:46:32 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 09:46:32 INFO  MasterServlet:77 - User name is : dog
+2020-09-07 09:46:42 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 09:46:42 INFO  reimbursemServices:33 - Adding new reimbursementreimbursement [reimb_id=0, reimb_amt=22.0, reim_submtd=2020-09-07 09:46:42.665, reim_resolvd=null, reim_desc=z, reim_athr=Users [userid=1, usrnm=dog, usrpaswd=sky, usr_fname=Ethan, usr_lname=Hunt, usreml=dog1@msn, usr_rlid=com.revature.models.useRl@5c2879e], reim_resolr=null, reim_sttsId=status [reim_statid=1, reim_status=pending], reim_typId=reim_type [typeid=1, reim_tp=lodging]]
+2020-09-07 09:46:42 ERROR reimbursDao:78 - You couldn't add reimbursement
+2020-09-07 09:53:31 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 09:53:31 INFO  MasterServlet:77 - User name is : dog
+2020-09-07 09:53:43 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 09:53:43 INFO  reimbursemServices:33 - Adding new reimbursementreimbursement [reimb_id=0, reimb_amt=22.0, reim_submtd=2020-09-07 09:53:43.692, reim_resolvd=null, reim_desc=ff, reim_athr=Users [userid=1, usrnm=dog, usrpaswd=sky, usr_fname=Ethan, usr_lname=Hunt, usreml=dog1@msn, usr_rlid=com.revature.models.useRl@5c2879e], reim_resolr=null, reim_sttsId=status [reim_statid=1, reim_status=pending], reim_typId=reim_type [typeid=1, reim_tp=lodging]]
+2020-09-07 09:53:44 ERROR reimbursDao:78 - You couldn't add reimbursement
+2020-09-07 10:00:16 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 10:00:16 INFO  MasterServlet:77 - User name is : dog
+2020-09-07 10:00:24 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 10:55:13 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 10:55:13 INFO  MasterServlet:77 - User name is : dog
+2020-09-07 10:55:23 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 11:11:28 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 11:11:28 INFO  MasterServlet:77 - User name is : dog
+2020-09-07 11:11:36 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 11:11:37 INFO  reimbursemServices:33 - Adding new reimbursementreimbursement [reimb_id=0, reimb_amt=66.0, reim_submtd=2020-09-07 11:11:36.968, reim_resolvd=null, reim_desc=ww, reim_athr=Users [userid=1, usrnm=dog, usrpaswd=sky, usr_fname=Ethan, usr_lname=Hunt, usreml=dog1@msn, usr_rlid=com.revature.models.useRl@5c2879e], userid=null, reim_statid=status [reim_statid=1, reim_status=pending], typeid=reim_type [typeid=1, reim_tp=lodging]]
+2020-09-07 11:11:37 ERROR reimbursDao:78 - You couldn't add reimbursement
+2020-09-07 11:45:46 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 11:45:46 INFO  MasterServlet:77 - User name is : dog
+2020-09-07 11:45:56 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 11:45:56 INFO  reimbursemServices:33 - Adding new reimbursementreimbursement [reimb_id=0, reimb_amt=22.0, reim_submtd=2020-09-07 11:45:56.199, reim_resolvd=null, reim_desc=zz, reim_athr=Users [userid=1, usrnm=dog, usrpaswd=sky, usr_fname=Ethan, usr_lname=Hunt, usreml=dog1@msn, usr_rlid=com.revature.models.useRl@5c2879e], userid=null, reim_statid=status [reim_statid=1, reim_status=pending], typeid=reim_type [typeid=1, reim_tp=lodging]]
+2020-09-07 11:45:56 ERROR reimbursDao:78 - You couldn't add reimbursement
+2020-09-07 11:56:06 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 11:56:06 INFO  MasterServlet:77 - User name is : dog
+2020-09-07 11:56:17 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 11:56:17 INFO  reimbursemServices:33 - Adding new reimbursementreimbursement [reimb_id=0, reimb_amt=44.0, reim_submtd=2020-09-07 11:56:17.265, reim_resolvd=null, reim_desc=rr, reim_athr=Users [userid=1, usrnm=dog, usrpaswd=sky, usr_fname=Ethan, usr_lname=Hunt, usreml=dog1@msn, usr_rlid=com.revature.models.useRl@5c2879e], userid=null, reim_statid=status [reim_statid=1, reim_status=pending], typeid=reim_type [typeid=1, reim_tp=lodging]]
+2020-09-07 11:56:17 ERROR reimbursDao:78 - You couldn't add reimbursement
+2020-09-07 12:03:21 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 12:03:21 INFO  MasterServlet:77 - User name is : dog
+2020-09-07 12:03:28 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 12:03:28 INFO  reimbursemServices:33 - Adding new reimbursementreimbursement [reimb_id=0, reimb_amt=22.0, reim_submtd=2020-09-07 12:03:28.141, reim_resolvd=null, reim_desc=aa, reim_athr=Users [userid=1, usrnm=dog, usrpaswd=sky, usr_fname=Ethan, usr_lname=Hunt, usreml=dog1@msn, usr_rlid=com.revature.models.useRl@5c2879e], userid=null, reim_statid=status [reim_statid=1, reim_status=pending], typeid=reim_type [typeid=1, reim_tp=lodging]]
+2020-09-07 12:03:28 ERROR reimbursDao:78 - You couldn't add reimbursement
+2020-09-07 12:08:08 INFO  UsersService:38 - Find a user by namenull
+2020-09-07 12:08:58 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 12:08:58 INFO  MasterServlet:77 - User name is : dog
+2020-09-07 12:09:05 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 12:09:05 INFO  reimbursemServices:33 - Adding new reimbursementreimbursement [reimb_id=0, reimb_amt=11.0, reim_submtd=2020-09-07 12:09:05.619, reim_resolvd=null, reim_desc=22, reim_athr=Users [userid=1, usrnm=dog, usrpaswd=sky, usr_fname=Ethan, usr_lname=Hunt, usreml=dog1@msn, usr_rlid=com.revature.models.useRl@5c2879e], userid=null, reim_statid=status [reim_statid=1, reim_status=pending], typeid=reim_type [typeid=1, reim_tp=lodging]]
+2020-09-07 12:09:05 ERROR reimbursDao:78 - You couldn't add reimbursement
+2020-09-07 12:13:43 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 12:13:43 INFO  MasterServlet:77 - User name is : dog
+2020-09-07 12:14:01 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 12:14:01 INFO  reimbursemServices:33 - Adding new reimbursementreimbursement [reimb_id=0, reimb_amt=12.0, reim_submtd=2020-09-07 12:14:01.0, reim_resolvd=null, reim_desc=ss, reim_athr=Users [userid=1, usrnm=dog, usrpaswd=sky, usr_fname=Ethan, usr_lname=Hunt, usreml=dog1@msn, usr_rlid=com.revature.models.useRl@5c2879e], userid=null, reim_statid=status [reim_statid=1, reim_status=pending], typeid=reim_type [typeid=1, reim_tp=lodging]]
+2020-09-07 12:14:01 ERROR reimbursDao:78 - You couldn't add reimbursement
+2020-09-07 12:44:06 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 12:44:06 INFO  MasterServlet:77 - User name is : dog
+2020-09-07 12:44:12 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 12:44:12 INFO  reimbursemServices:33 - Adding new reimbursementreimbursement [reimb_id=0, reimb_amt=12.0, reim_submtd=2020-09-07 12:44:12.638, reim_resolvd=null, reim_desc=aa, reim_athr=Users [userid=1, usrnm=dog, usrpaswd=sky, usr_fname=Ethan, usr_lname=Hunt, usreml=dog1@msn, usr_rlid=com.revature.models.useRl@5c2879e], userid=null, reim_statid=status [reim_statid=1, reim_status=pending], typeid=reim_type [typeid=1, reim_tp=lodging]]
+2020-09-07 12:44:13 ERROR reimbursDao:78 - You couldn't add reimbursement
+2020-09-07 13:01:48 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 13:01:48 INFO  MasterServlet:77 - User name is : dog
+2020-09-07 13:01:58 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 13:01:58 INFO  reimbursemServices:33 - Adding new reimbursementreimbursement [reimb_id=0, reimb_amt=11.0, reim_submtd=2020-09-07 13:01:58.006, reim_resolvd=null, reim_desc=gg, reim_athr=Users [userid=1, usrnm=dog, usrpaswd=sky, usr_fname=Ethan, usr_lname=Hunt, usreml=dog1@msn, usr_rlid=com.revature.models.useRl@5c2879e], userid=null, reim_statid=status [reim_statid=11, reim_status=pending], typeid=reim_type [typeid=1, reim_tp=lodging]]
+2020-09-07 13:07:31 INFO  UsersService:38 - Find a user by namecong
+2020-09-07 13:07:31 INFO  MasterServlet:77 - User name is : cong
+2020-09-07 13:07:45 INFO  UsersService:38 - Find a user by namecong
+2020-09-07 13:07:45 INFO  reimbursemServices:33 - Adding new reimbursementreimbursement [reimb_id=0, reimb_amt=77.0, reim_submtd=2020-09-07 13:07:45.361, reim_resolvd=null, reim_desc=tt, reim_athr=Users [userid=5, usrnm=cong, usrpaswd=sky, usr_fname=Sandra, usr_lname=Bullock, usreml=dog5@msn, usr_rlid=com.revature.models.useRl@5c2879e], userid=null, reim_statid=status [reim_statid=11, reim_status=pending], typeid=reim_type [typeid=3, reim_tp=food]]
+2020-09-07 13:12:17 INFO  UsersService:38 - Find a user by namehandsome
+2020-09-07 13:12:17 INFO  MasterServlet:77 - User name is : handsome
+2020-09-07 13:12:44 INFO  UsersService:38 - Find a user by namehandsome
+2020-09-07 13:12:44 INFO  reimbursemServices:33 - Adding new reimbursementreimbursement [reimb_id=0, reimb_amt=900.0, reim_submtd=2020-09-07 13:12:44.372, reim_resolvd=null, reim_desc=nice, reim_athr=Users [userid=3, usrnm=handsome, usrpaswd=sky, usr_fname=Edward, usr_lname=Norton, usreml=dog3@msn, usr_rlid=com.revature.models.useRl@5c2879e], userid=null, reim_statid=status [reim_statid=11, reim_status=pending], typeid=reim_type [typeid=2, reim_tp=travel]]
+2020-09-07 13:12:44 ERROR reimbursDao:78 - You couldn't add reimbursement
+2020-09-07 13:14:27 INFO  UsersService:38 - Find a user by namehandsome
+2020-09-07 13:14:27 INFO  MasterServlet:77 - User name is : handsome
+2020-09-07 13:14:38 INFO  UsersService:38 - Find a user by namehandsome
+2020-09-07 13:14:38 INFO  reimbursemServices:33 - Adding new reimbursementreimbursement [reimb_id=0, reimb_amt=10.0, reim_submtd=2020-09-07 13:14:38.589, reim_resolvd=null, reim_desc=vv, reim_athr=Users [userid=3, usrnm=handsome, usrpaswd=sky, usr_fname=Edward, usr_lname=Norton, usreml=dog3@msn, usr_rlid=com.revature.models.useRl@5c2879e], userid=null, reim_statid=status [reim_statid=11, reim_status=pending], typeid=reim_type [typeid=2, reim_tp=travel]]
+2020-09-07 13:43:30 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 13:43:30 INFO  MasterServlet:77 - User name is : dog
+2020-09-07 13:43:36 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 13:43:36 INFO  UsersService:29 - Find user by id1
+2020-09-07 13:43:36 INFO  reimbursemServices:38 - find a remibursement bu the user Users [userid=1, usrnm=dog, usrpaswd=sky, usr_fname=Ethan, usr_lname=Hunt, usreml=dog1@msn, usr_rlid=com.revature.models.useRl@5c2879e]
+2020-09-07 13:52:18 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 13:52:18 INFO  MasterServlet:77 - User name is : dog
+2020-09-07 13:52:21 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 13:52:21 INFO  UsersService:29 - Find user by id1
+2020-09-07 13:52:21 INFO  reimbursemServices:38 - find a remibursement bu the user Users [userid=1, usrnm=dog, usrpaswd=sky, usr_fname=Ethan, usr_lname=Hunt, usreml=dog1@msn, usr_rlid=com.revature.models.useRl@5c2879e]
+2020-09-07 13:56:20 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 13:56:20 INFO  MasterServlet:77 - User name is : dog
+2020-09-07 13:56:22 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 13:56:22 INFO  UsersService:29 - Find user by id1
+2020-09-07 13:56:22 INFO  reimbursemServices:38 - find a remibursement bu the user Users [userid=1, usrnm=dog, usrpaswd=sky, usr_fname=Ethan, usr_lname=Hunt, usreml=dog1@msn, usr_rlid=com.revature.models.useRl@5c2879e]
+2020-09-07 13:57:42 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 13:57:42 INFO  UsersService:29 - Find user by id1
+2020-09-07 13:57:42 INFO  reimbursemServices:38 - find a remibursement bu the user Users [userid=1, usrnm=dog, usrpaswd=sky, usr_fname=Ethan, usr_lname=Hunt, usreml=dog1@msn, usr_rlid=com.revature.models.useRl@5c2879e]
+2020-09-07 14:07:06 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 14:07:07 INFO  UsersService:29 - Find user by id1
+2020-09-07 14:07:07 INFO  reimbursemServices:38 - find a remibursement bu the user Users [userid=1, usrnm=dog, usrpaswd=sky, usr_fname=Ethan, usr_lname=Hunt, usreml=dog1@msn, usr_rlid=com.revature.models.useRl@5c2879e]
+2020-09-07 14:15:47 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 14:15:47 INFO  UsersService:29 - Find user by id1
+2020-09-07 14:15:47 INFO  reimbursemServices:38 - find a remibursement bu the user Users [userid=1, usrnm=dog, usrpaswd=sky, usr_fname=Ethan, usr_lname=Hunt, usreml=dog1@msn, usr_rlid=com.revature.models.useRl@5c2879e]
+2020-09-07 14:15:57 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 14:15:57 INFO  UsersService:29 - Find user by id1
+2020-09-07 14:15:57 INFO  reimbursemServices:38 - find a remibursement bu the user Users [userid=1, usrnm=dog, usrpaswd=sky, usr_fname=Ethan, usr_lname=Hunt, usreml=dog1@msn, usr_rlid=com.revature.models.useRl@5c2879e]
+2020-09-07 14:17:16 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 14:17:16 INFO  UsersService:29 - Find user by id1
+2020-09-07 14:17:16 INFO  reimbursemServices:38 - find a remibursement bu the user Users [userid=1, usrnm=dog, usrpaswd=sky, usr_fname=Ethan, usr_lname=Hunt, usreml=dog1@msn, usr_rlid=com.revature.models.useRl@5c2879e]
+2020-09-07 14:17:17 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 14:17:17 INFO  UsersService:29 - Find user by id1
+2020-09-07 14:17:17 INFO  reimbursemServices:38 - find a remibursement bu the user Users [userid=1, usrnm=dog, usrpaswd=sky, usr_fname=Ethan, usr_lname=Hunt, usreml=dog1@msn, usr_rlid=com.revature.models.useRl@5c2879e]
+2020-09-07 15:28:20 INFO  UsersService:38 - Find a user by namecat
+2020-09-07 15:28:20 INFO  MasterServlet:77 - User name is : cat
+2020-09-07 15:28:20 INFO  reimbursemServices:23 -  Reimbrsement list
+2020-09-07 15:29:33 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 15:29:33 INFO  MasterServlet:77 - User name is : dog
+2020-09-07 15:29:33 INFO  reimbursemServices:23 -  Reimbrsement list
+2020-09-07 15:32:12 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 15:32:13 INFO  MasterServlet:77 - User name is : dog
+2020-09-07 15:32:13 INFO  reimbursemServices:23 -  Reimbrsement list
+2020-09-07 15:33:07 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 15:33:07 INFO  MasterServlet:77 - User name is : dog
+2020-09-07 15:33:07 INFO  reimbursemServices:23 -  Reimbrsement list
+2020-09-07 15:33:39 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 15:33:39 INFO  MasterServlet:77 - User name is : dog
+2020-09-07 15:33:39 INFO  reimbursemServices:23 -  Reimbrsement list
+2020-09-07 15:39:22 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 15:39:22 INFO  MasterServlet:77 - User name is : dog
+2020-09-07 15:39:22 INFO  reimbursemServices:23 -  Reimbrsement list
+2020-09-07 15:40:20 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 15:40:20 INFO  MasterServlet:77 - User name is : dog
+2020-09-07 15:40:20 INFO  reimbursemServices:23 -  Reimbrsement list
+2020-09-07 15:43:20 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 15:43:20 INFO  MasterServlet:77 - User name is : dog
+2020-09-07 15:43:20 INFO  reimbursemServices:23 -  Reimbrsement list
+2020-09-07 15:46:13 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 15:46:13 INFO  MasterServlet:77 - User name is : dog
+2020-09-07 15:46:47 INFO  UsersService:38 - Find a user by namecat
+2020-09-07 15:46:47 INFO  MasterServlet:77 - User name is : cat
+2020-09-07 15:47:25 INFO  UsersService:38 - Find a user by namecat
+2020-09-07 15:47:26 INFO  MasterServlet:77 - User name is : cat
+2020-09-07 15:47:29 INFO  reimbursemServices:69 - Getting all reimbursements by status :11
+2020-09-07 15:52:10 INFO  UsersService:38 - Find a user by namecat
+2020-09-07 15:52:10 INFO  MasterServlet:77 - User name is : cat
+2020-09-07 15:52:14 INFO  reimbursemServices:69 - Getting all reimbursements by status :11
+2020-09-07 16:01:14 INFO  UsersService:38 - Find a user by namecat
+2020-09-07 16:01:14 INFO  MasterServlet:77 - User name is : cat
+2020-09-07 16:01:17 INFO  reimbursemServices:69 - Getting all reimbursements by status :11
+2020-09-07 16:03:10 INFO  UsersService:38 - Find a user by namecat
+2020-09-07 16:03:10 INFO  MasterServlet:77 - User name is : cat
+2020-09-07 16:03:12 INFO  reimbursemServices:69 - Getting all reimbursements by status :11
+2020-09-07 16:04:59 INFO  reimbursemServices:69 - Getting all reimbursements by status :11
+2020-09-07 16:09:44 INFO  reimbursemServices:69 - Getting all reimbursements by status :11
+2020-09-07 16:14:57 INFO  reimbursemServices:69 - Getting all reimbursements by status :11
+2020-09-07 16:15:55 INFO  reimbursemServices:69 - Getting all reimbursements by status :11
+2020-09-07 16:21:09 INFO  UsersService:38 - Find a user by namecat
+2020-09-07 16:21:09 INFO  MasterServlet:77 - User name is : cat
+2020-09-07 16:22:20 INFO  UsersService:38 - Find a user by namecat
+2020-09-07 16:22:20 INFO  MasterServlet:77 - User name is : cat
+2020-09-07 16:24:58 INFO  UsersService:38 - Find a user by namecat
+2020-09-07 16:24:58 INFO  MasterServlet:77 - User name is : cat
+2020-09-07 16:31:34 INFO  UsersService:38 - Find a user by namecat
+2020-09-07 16:31:34 INFO  MasterServlet:77 - User name is : cat
+2020-09-07 16:34:37 INFO  UsersService:38 - Find a user by namecat
+2020-09-07 16:34:37 INFO  MasterServlet:77 - User name is : cat
+2020-09-07 16:34:39 INFO  reimbursemServices:23 -  Reimbrsement list
+2020-09-07 16:35:08 INFO  reimbursemServices:23 -  Reimbrsement list
+2020-09-07 16:36:19 INFO  reimbursemServices:23 -  Reimbrsement list
+2020-09-07 16:37:06 INFO  reimbursemServices:23 -  Reimbrsement list
+2020-09-07 16:37:51 INFO  reimbursemServices:23 -  Reimbrsement list
+2020-09-07 16:38:37 INFO  reimbursemServices:23 -  Reimbrsement list
+2020-09-07 16:39:29 INFO  reimbursemServices:23 -  Reimbrsement list
+2020-09-07 16:39:43 INFO  reimbursemServices:70 - Getting all reimbursements by status :11
+2020-09-07 16:39:53 INFO  reimbursemServices:23 -  Reimbrsement list
+2020-09-07 16:40:02 INFO  reimbursemServices:70 - Getting all reimbursements by status :11
+2020-09-07 17:40:44 INFO  reimbursemServices:76 - Getting all reimbursements by status :11
+2020-09-07 17:40:53 INFO  UsersService:38 - Find a user by namecat
+2020-09-07 17:40:53 INFO  MasterServlet:77 - User name is : cat
+2020-09-07 17:40:55 INFO  reimbursemServices:76 - Getting all reimbursements by status :11
+2020-09-07 18:51:03 INFO  reimbursemServices:76 - Getting all reimbursements by status :11
+2020-09-07 18:51:27 INFO  reimbursemServices:23 -  Reimbrsement list
+2020-09-07 18:51:59 INFO  reimbursemServices:76 - Getting all reimbursements by status :11
+2020-09-07 18:53:36 INFO  reimbursemServices:23 -  Reimbrsement list
+2020-09-07 18:53:39 INFO  reimbursemServices:76 - Getting all reimbursements by status :11
+2020-09-07 19:02:55 INFO  reimbursemServices:76 - Getting all reimbursements by status :11
+2020-09-07 19:03:29 INFO  reimbursemServices:76 - Getting all reimbursements by status :11
+2020-09-07 19:07:06 INFO  reimbursemServices:76 - Getting all reimbursements by status :11
+2020-09-07 19:07:29 INFO  reimbursemServices:76 - Getting all reimbursements by status :11
+2020-09-07 19:08:36 INFO  reimbursemServices:76 - Getting all reimbursements by status :11
+2020-09-07 19:28:09 INFO  UsersService:38 - Find a user by namecat
+2020-09-07 19:28:09 INFO  MasterServlet:77 - User name is : cat
+2020-09-07 19:28:35 INFO  reimbursemServices:76 - Getting all reimbursements by status :11
+2020-09-07 19:31:44 INFO  reimbursemServices:76 - Getting all reimbursements by status :11
+2020-09-07 19:31:51 INFO  reimbursemServices:60 - Getting single reimbursement by id:2
+2020-09-07 19:31:51 INFO  UsersService:38 - Find a user by namecat
+2020-09-07 19:31:51 INFO  reimbursemServices:54 - Updating reimbursement: reimbursement [reimb_id=2, reimb_amt=11.0, reim_submtd=2020-09-07 13:01:58.173, reim_resolvd=2020-09-07 19:31:51.653, reim_desc=gg, reim_athr=Users [userid=1, usrnm=dog, usrpaswd=sky, usr_fname=Ethan, usr_lname=Hunt, usreml=dog1@msn, usr_rlid=com.revature.models.useRl@5c2879e], userid=Users [userid=2, usrnm=cat, usrpaswd=sky, usr_fname=Julia, usr_lname=Roberts, usreml=dog2@msn, usr_rlid=com.revature.models.useRl@bf8ab89e], reim_statid=status [reim_statid=2, reim_status=Approved], typeid=reim_type [typeid=1, reim_tp=lodging]]
+2020-09-07 19:43:03 INFO  UsersService:38 - Find a user by namecat
+2020-09-07 19:43:03 INFO  MasterServlet:77 - User name is : cat
+2020-09-07 19:43:06 INFO  reimbursemServices:76 - Getting all reimbursements by status :11
+2020-09-07 19:43:11 INFO  reimbursemServices:60 - Getting single reimbursement by id:2
+2020-09-07 19:43:11 INFO  UsersService:38 - Find a user by namecat
+2020-09-07 19:43:11 INFO  reimbursemServices:54 - Updating reimbursement: reimbursement [reimb_id=2, reimb_amt=11.0, reim_submtd=2020-09-07 13:01:58.173, reim_resolvd=2020-09-07 19:43:11.182, reim_desc=gg, reim_athr=Users [userid=1, usrnm=dog, usrpaswd=sky, usr_fname=Ethan, usr_lname=Hunt, usreml=dog1@msn, usr_rlid=com.revature.models.useRl@5c2879e], userid=Users [userid=2, usrnm=cat, usrpaswd=sky, usr_fname=Julia, usr_lname=Roberts, usreml=dog2@msn, usr_rlid=com.revature.models.useRl@bf8ab89e], reim_statid=status [reim_statid=10, reim_status=approved], typeid=reim_type [typeid=1, reim_tp=lodging]]
+2020-09-07 19:44:17 INFO  reimbursemServices:76 - Getting all reimbursements by status :11
+2020-09-07 19:44:21 INFO  reimbursemServices:23 -  Reimbrsement list
+2020-09-07 19:44:30 INFO  reimbursemServices:76 - Getting all reimbursements by status :11
+2020-09-07 19:45:05 INFO  reimbursemServices:76 - Getting all reimbursements by status :11
+2020-09-07 21:25:34 INFO  reimbursemServices:76 - Getting all reimbursements by status :11
+2020-09-07 21:27:15 INFO  reimbursemServices:60 - Getting single reimbursement by id:4
+2020-09-07 21:27:15 INFO  UsersService:38 - Find a user by namenull
+2020-09-07 21:27:55 INFO  UsersService:38 - Find a user by namecat
+2020-09-07 21:27:55 INFO  MasterServlet:77 - User name is : cat
+2020-09-07 21:28:01 INFO  reimbursemServices:76 - Getting all reimbursements by status :11
+2020-09-07 21:28:06 INFO  reimbursemServices:60 - Getting single reimbursement by id:4
+2020-09-07 21:28:06 INFO  UsersService:38 - Find a user by namecat
+2020-09-07 21:28:06 INFO  reimbursemServices:54 - Updating reimbursement: reimbursement [reimb_id=4, reimb_amt=10.0, reim_submtd=2020-09-07 13:14:38.698, reim_resolvd=2020-09-07 21:28:06.719, reim_desc=vv, reim_athr=Users [userid=3, usrnm=handsome, usrpaswd=sky, usr_fname=Edward, usr_lname=Norton, usreml=dog3@msn, usr_rlid=com.revature.models.useRl@5c2879e], userid=Users [userid=2, usrnm=cat, usrpaswd=sky, usr_fname=Julia, usr_lname=Roberts, usreml=dog2@msn, usr_rlid=com.revature.models.useRl@bf8ab89e], reim_statid=status [reim_statid=12, reim_status=denied], typeid=reim_type [typeid=2, reim_tp=travel]]
+2020-09-07 21:28:16 INFO  reimbursemServices:76 - Getting all reimbursements by status :11
+2020-09-07 21:28:18 INFO  reimbursemServices:23 -  Reimbrsement list
+2020-09-07 21:32:05 INFO  reimbursemServices:76 - Getting all reimbursements by status :11
+2020-09-07 21:32:10 INFO  reimbursemServices:76 - Getting all reimbursements by status :11
+2020-09-07 21:32:12 INFO  reimbursemServices:23 -  Reimbrsement list
+2020-09-07 21:34:15 INFO  reimbursemServices:76 - Getting all reimbursements by status :11
+2020-09-07 21:35:24 INFO  reimbursemServices:76 - Getting all reimbursements by status :11
+2020-09-07 21:35:27 INFO  reimbursemServices:23 -  Reimbrsement list
+2020-09-07 21:35:29 INFO  reimbursemServices:76 - Getting all reimbursements by status :11
+2020-09-07 21:36:19 INFO  reimbursemServices:76 - Getting all reimbursements by status :11
+2020-09-07 21:36:22 INFO  reimbursemServices:23 -  Reimbrsement list
+2020-09-07 21:36:36 INFO  reimbursemServices:76 - Getting all reimbursements by status :11
+2020-09-07 21:40:42 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 21:40:42 INFO  MasterServlet:77 - User name is : dog
+2020-09-07 21:40:46 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 21:40:46 INFO  UsersService:29 - Find user by id1
+2020-09-07 21:40:46 INFO  reimbursemServices:39 - find a remibursement bu the user Users [userid=1, usrnm=dog, usrpaswd=sky, usr_fname=Ethan, usr_lname=Hunt, usreml=dog1@msn, usr_rlid=com.revature.models.useRl@5c2879e]
+2020-09-07 21:43:21 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 21:43:21 INFO  UsersService:29 - Find user by id1
+2020-09-07 21:43:21 INFO  reimbursemServices:39 - find a remibursement bu the user Users [userid=1, usrnm=dog, usrpaswd=sky, usr_fname=Ethan, usr_lname=Hunt, usreml=dog1@msn, usr_rlid=com.revature.models.useRl@5c2879e]
+2020-09-07 21:43:47 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 21:43:47 INFO  UsersService:29 - Find user by id1
+2020-09-07 21:43:47 INFO  reimbursemServices:39 - find a remibursement bu the user Users [userid=1, usrnm=dog, usrpaswd=sky, usr_fname=Ethan, usr_lname=Hunt, usreml=dog1@msn, usr_rlid=com.revature.models.useRl@5c2879e]
+2020-09-07 21:44:58 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 21:44:58 INFO  UsersService:29 - Find user by id1
+2020-09-07 21:44:58 INFO  reimbursemServices:39 - find a remibursement bu the user Users [userid=1, usrnm=dog, usrpaswd=sky, usr_fname=Ethan, usr_lname=Hunt, usreml=dog1@msn, usr_rlid=com.revature.models.useRl@5c2879e]
+2020-09-07 21:45:15 INFO  UsersService:38 - Find a user by namecat
+2020-09-07 21:45:15 INFO  MasterServlet:77 - User name is : cat
+2020-09-07 21:45:20 INFO  reimbursemServices:76 - Getting all reimbursements by status :11
+2020-09-07 21:45:24 INFO  reimbursemServices:23 -  Reimbrsement list
+2020-09-07 21:45:27 INFO  reimbursemServices:76 - Getting all reimbursements by status :11
+2020-09-07 21:46:04 INFO  reimbursemServices:23 -  Reimbrsement list
+2020-09-07 21:47:59 INFO  reimbursemServices:23 -  Reimbrsement list
+2020-09-07 21:48:52 INFO  reimbursemServices:76 - Getting all reimbursements by status :11
+2020-09-07 21:48:54 INFO  reimbursemServices:23 -  Reimbrsement list
+2020-09-07 21:48:58 INFO  reimbursemServices:76 - Getting all reimbursements by status :11
+2020-09-07 21:49:36 INFO  UsersService:38 - Find a user by namecat
+2020-09-07 21:49:36 INFO  UsersService:29 - Find user by id2
+2020-09-07 21:49:36 INFO  reimbursemServices:39 - find a remibursement bu the user Users [userid=2, usrnm=cat, usrpaswd=sky, usr_fname=Julia, usr_lname=Roberts, usreml=dog2@msn, usr_rlid=com.revature.models.useRl@bf8ab89e]
+2020-09-07 21:49:42 INFO  UsersService:38 - Find a user by namecat
+2020-09-07 21:49:42 INFO  UsersService:29 - Find user by id2
+2020-09-07 21:49:42 INFO  reimbursemServices:39 - find a remibursement bu the user Users [userid=2, usrnm=cat, usrpaswd=sky, usr_fname=Julia, usr_lname=Roberts, usreml=dog2@msn, usr_rlid=com.revature.models.useRl@bf8ab89e]
+2020-09-07 21:58:09 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 21:58:09 INFO  MasterServlet:77 - User name is : dog
+2020-09-07 21:58:14 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 21:58:14 INFO  UsersService:29 - Find user by id1
+2020-09-07 21:58:14 INFO  reimbursemServices:39 - find a remibursement bu the user Users [userid=1, usrnm=dog, usrpaswd=sky, usr_fname=Ethan, usr_lname=Hunt, usreml=dog1@msn, usr_rlid=com.revature.models.useRl@5c2879e]
+2020-09-07 22:00:26 INFO  UsersService:38 - Find a user by namedog
+2020-09-07 22:00:26 INFO  UsersService:29 - Find user by id1
+2020-09-07 22:00:26 INFO  reimbursemServices:39 - find a remibursement bu the user Users [userid=1, usrnm=dog, usrpaswd=sky, usr_fname=Ethan, usr_lname=Hunt, usreml=dog1@msn, usr_rlid=com.revature.models.useRl@5c2879e]
+2020-09-07 22:00:57 INFO  reimbursemServices:76 - Getting all reimbursements by status :11
+2020-09-07 22:02:53 INFO  reimbursemServices:23 -  Reimbrsement list
+2020-09-07 22:02:55 INFO  reimbursemServices:76 - Getting all reimbursements by status :11

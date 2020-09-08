@@ -1,12 +1,40 @@
 package com.revature.models;
 
-public class status {
+import java.io.Serializable;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+
+@Entity
+public class status implements Serializable{
+	private static final long serialVersionUID=1L;
+	
+	@Id
+	@GeneratedValue(strategy=GenerationType.IDENTITY)
+	@Column(name="reim_statid")
 private int reim_statid;
+	
+	
+	@Column(name="reim_status",nullable=false)
 private String reim_status;
 public status()
 {
 	super();
 }
+
+
+
+public status(int reim_statid, String reim_status) {
+	super();
+	this.reim_statid = reim_statid;
+	this.reim_status = reim_status;
+}
+
+
+
 public int getReim_statid() {
 	return reim_statid;
 }

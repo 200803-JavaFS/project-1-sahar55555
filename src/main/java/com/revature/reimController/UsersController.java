@@ -36,7 +36,7 @@ public class UsersController {
 		res.setStatus(200);
 	}
 
-	public void addAvenger(HttpServletRequest req, HttpServletResponse res) throws IOException {
+	public void addUser(HttpServletRequest req, HttpServletResponse res) throws IOException {
 		BufferedReader reader = req.getReader();
 		
 		StringBuilder s = new StringBuilder();

@@ -1,11 +1,47 @@
 package com.revature.models;
 
-public class reim_type {
+import java.io.Serializable;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+@Entity
+@Table(name="reim_type")
+public class reim_type implements Serializable{
+	private static final long serialVersionUID=1L;
+	
+	
+	@Id
+	@GeneratedValue(strategy=GenerationType.IDENTITY)
+	@Column(name="typeid")
 private int typeid;
+	@Column(name="reim_tp", nullable=false)
 private String reim_tp;
+	
+	
+	
 public reim_type() {
 	super();
 }
+
+
+
+
+
+public reim_type(int typeid, String reim_tp) {
+	super();
+	this.typeid = typeid;
+	this.reim_tp = reim_tp;
+}
+
+
+
+
+
 public int getTypeid() {
 	return typeid;
 }
